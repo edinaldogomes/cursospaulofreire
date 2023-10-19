@@ -1,17 +1,21 @@
 function openAdm() {
-    window.open('adm.html', '_blank');
+    window.open('adm.html', '_self');
 }
 
 function openDs(){
-    window.open('ds.html', '_blank');
+    window.open('ds.html', '_self');
 }
 
 function openEnf(){
-    window.open('enf.html', '_blank');
+    window.open('enf.html', '_self');
 }
 
 function openRedes(){
-    window.open('redes.html', '_blank');
+    window.open('redes.html', '_self');
+}
+
+function openInicial(){
+    window.open('index.html', '_self');
 }
 
 function openExternalPage() {
